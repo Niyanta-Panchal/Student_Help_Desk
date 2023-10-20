@@ -11,10 +11,7 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 # Admin Features
 
-* 
 ## Wireframe
-
-
 
 
 
@@ -31,7 +28,7 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 ### Author
 
-Niyanta PAnchal
+Niyanta Panchal
 
 
 #### Happy Open Source....
