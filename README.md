@@ -7,42 +7,16 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 # User Features
 
-* Login
-* Signup
-* Change Password
-* Edit Profile
-* Feedback
-* View Messages
-* Notification
+* 
 
 # Admin Features
 
-* Dashboard (Total Users, Deleted Users, Notification, Feedback Messages)
-* Signup
-* Change Password
-* Edit Admin Profile
-* Edit Users Profile
-* Reply Feedback
-* Delete Users
-* Confirmed Users
-* View Feedback
-* Notification
-* View Delelted Users
-* Search Users, Feedback Messages
-* Download User Excel File 
-* Sorting 
-
+* 
 ## Wireframe
 
- <img src="/Sc/wireframe.png">
 
-## Screenshots
 
-| Screenshots  | Screenshots |
-| ------------- | ------------- |
-| <img src="/Sc/1.PNG"> | <img src="/Sc/2.PNG"> |
-| <img src="/Sc/3.PNG"> | <img src="/Sc/4.PNG"> |
-| <img src="/Sc/5.PNG"> | <img src="/Sc/6.PNG"> |
+
 
 ### How to Install
 
@@ -57,12 +31,8 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 ### Author
 
-Ajay Randhawa
+Niyanta PAnchal
 
- ## Donate
-If you appreciate that, please consider donating to the Developer.
-
-[![Donate](https://cdn.pbrd.co/images/HyQFKkP.png)](https://www.paypal.me/ajayrandhawa) 
 
 #### Happy Open Source....
 
