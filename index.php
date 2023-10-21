@@ -53,7 +53,7 @@ echo "<script type='text/javascript'> document.location = 'bonafide.php'; </scri
 				<img src="images/logo.png" alt="Logo" height="15%" width="35%" class="img-responsive center-block d-block mx-auto"/>     
 					<div class="col-md-6 col-md-offset-3">					  
                                  
-					    <h4 class="text-center text-bold mt-3x">Welcome to S. S. Agrawal College </h4>
+					    <h4 class="text-center text-bold mt-3x">Welcome to College </h4>
 						<h1 class="text-center text-bold mt-3x text-primary"> User Login</h1>
 						<div class="well row pt-2x pb-3x bg-gradient-danger text-black">
 							<div class="col-md-8 col-md-offset-2">
