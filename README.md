@@ -12,7 +12,7 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 * Username : admin
 * Password : 963852741
 
-### Database Files are included in Project. (database.sql)
+### Database Files are included in Project. (test.sql)
 
 ### Author
 
